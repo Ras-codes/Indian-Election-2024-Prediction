@@ -702,8 +702,8 @@ nb_matrix = confusion_matrix(y_test, y_pred_nb)
   <h1>Data Visualization with Power BI</h1>
 </div>
 
+![Screenshot 2024-07-18 214930](https://github.com/user-attachments/assets/f8b2d935-c9a4-4b3b-9c48-fb3fb24bef7d)
 
-upload power bi dashboard and its description
 
 
 
